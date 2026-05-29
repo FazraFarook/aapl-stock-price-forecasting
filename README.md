@@ -10,7 +10,7 @@ This project analyzes daily AAPL stock prices from 2020–2026 and compares ARIM
 * Ticker: AAPL
 * Frequency: Daily
 
-**Note:** A local copy of the dataset (`aapl_stock_data.csv`) is included to ensure reproducibility, since data retrieved from Yahoo Finance may vary slightly over time.
+**Note:** A local copy of the dataset (`aapl_stock_data.xlsx`) is included to ensure reproducibility, since data retrieved from Yahoo Finance may vary slightly over time.
 
 ## Methods
 
@@ -24,7 +24,7 @@ This project analyzes daily AAPL stock prices from 2020–2026 and compares ARIM
 
 ```bash
 AAPL_Stock_Price.ipynb
-aapl_stock_data.csv
+aapl_stock_data.xlsx
 README.md
 ```
 
