@@ -30,5 +30,5 @@ README.md
 
 ## Author
 
-Fazra Farook 
+Fazra Farook   
 BSc (Hons) Applied Statistics
